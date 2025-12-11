@@ -1,4 +1,4 @@
-### simple-java-monolith-app
+# simple-java-monolith-app
 This is a simple java monolith application based on below folder structure.
 simple-monolith/
 ├─ pom.xml
